@@ -20,7 +20,7 @@
 - **Video Background** (فيديو كخلفية لعنصر معين)
 
 ## 🚀 طريقة التشغيل
-1. - [Live Demo على GitHub Pages](https://karimfawzy01.github.io/Leon-Template-1/)
+1. - [Live Demo على GitHub Pages](https://karimfawzy01.github.io/Kasper-Template-2/)
 2. حمل المشروع كـ ZIP أو استخدم الأمر:
    ```bash
    git clone https://github.com/KarimFawzy01/Kasper-Template-2.git
